@@ -1,0 +1,24 @@
+{
+  "name": "employe-tracker",
+  "version": "1.0.0",
+  "description": "week 12-hw",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheShaikh95/Employe-tracker.git"
+  },
+  "author": "Afnan Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheShaikh95/Employe-tracker/issues"
+  },
+  "homepage": "https://github.com/TheShaikh95/Employe-tracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
